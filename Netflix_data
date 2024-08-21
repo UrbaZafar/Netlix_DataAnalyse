@@ -1,5 +1,3 @@
-#This is a very basic code used to analyze data
-
 # i am gonna be using matplotlib pandas and others to analyze my netlfix data
 import pandas as pd
 import matplotlib.pyplot as plt
